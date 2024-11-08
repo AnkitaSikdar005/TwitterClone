@@ -629,8 +629,8 @@ video {
 }
 
 .mx-3 {
-  margin-left: 0.75rem;
-  margin-right: 0.75rem;
+  margin-left: -0.25rem;
+  margin-right: 2.75rem;
 }
 
 .mx-5 {
@@ -644,7 +644,7 @@ video {
 }
 
 .my-2 {
-  margin-top: 0.5rem;
+  margin-top: -0.5rem;
   margin-bottom: 0.5rem;
 }
 
@@ -692,7 +692,7 @@ video {
 }
 
 .h-6 {
-  height: 1.5rem;
+  height: 2.5rem;
 }
 
 .h-7 {
@@ -716,7 +716,7 @@ video {
 }
 
 .w-6 {
-  width: 1.5rem;
+  width: 2.5rem;
 }
 
 .w-8 {
